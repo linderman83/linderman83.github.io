@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.coodingbox.com</id>
+    <title>CoodingBox</title>
+    <updated>2022-02-14T08:58:49.626Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://www.coodingbox.com"/>
+    <link rel="self" href="https://www.coodingbox.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Image optimization and compression with webp]]></title>
+        <id>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</id>
+        <link href="https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/">
+        </link>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[webp - short introduction
+
+Web is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...]]></summary>
+    </entry>
+</feed>

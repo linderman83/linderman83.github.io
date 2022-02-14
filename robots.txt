@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https:/www.coodingbox.com/sitemap.xml
+Host: https://www.coodingbox.com

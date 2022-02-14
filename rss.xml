@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CoodingBox</title>
+        <link>https://www.coodingbox.com</link>
+        <description></description>
+        <lastBuildDate>Mon, 14 Feb 2022 08:58:49 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://www.coodingbox.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Image optimization and compression with webp]]></title>
+            <link>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</link>
+            <guid>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[webp - short introduction
+
+Web is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...]]></description>
+            <enclosure url="https://www.coodingbox.com/images/blog/webp_logo.webp">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

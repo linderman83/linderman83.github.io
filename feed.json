@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CoodingBox",
+    "home_page_url": "https://www.coodingbox.com",
+    "feed_url": "https://www.coodingbox.com/feed.json",
+    "items": [
+        {
+            "id": "https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/",
+            "url": "https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/",
+            "title": "Image optimization and compression with webp",
+            "summary": "webp - short introduction\n\nWeb is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...",
+            "image": "https://www.coodingbox.com/images/blog/webp_logo.webp",
+            "date_modified": "2022-02-05T00:00:00.000Z"
+        }
+    ]
+}
