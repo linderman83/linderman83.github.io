@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.coodingbox.com</id>
+    <title>CoodingBox</title>
+    <updated>2024-01-22T19:22:41.352Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://www.coodingbox.com"/>
+    <link rel="self" href="https://www.coodingbox.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Testing 10 AI content detector tools against ChatGPT generated text]]></title>
+        <id>https://www.coodingbox.com/ai-content-detection-tools-test/</id>
+        <link href="https://www.coodingbox.com/ai-content-detection-tools-test/">
+        </link>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-generated content has revolutionized the internet and the way we use it. Texts, images and entire websites, artificial intelligence eveolved from exotic, to solid, day-to-day tool in content creati ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access MySQL server through Cloudflare Zero-Trust Tunnel]]></title>
+        <id>https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/</id>
+        <link href="https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/">
+        </link>
+        <updated>2023-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare had pretty good and simple UI dashboard, that can be used to create and manage tunnels, but this post shows how to do it from the cli.
+
+This base example below is straight-forward, stript ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add AppImage executable to Applications menu in KDE Plasma]]></title>
+        <id>https://www.coodingbox.com/add-appimage-to-kde-menu/</id>
+        <link href="https://www.coodingbox.com/add-appimage-to-kde-menu/">
+        </link>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Press Alt + F2
+
+In the popup field write kmenuedit.
+
+You will see the familiar Applications menu.
+
+Navigate to the submenu you like and right click it.
+
+Choose  New Item
+
+Fill the Details, poin ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find n largest files recursively]]></title>
+        <id>https://www.coodingbox.com/find-n-largest-files-cli/</id>
+        <link href="https://www.coodingbox.com/find-n-largest-files-cli/">
+        </link>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[find -type f -exec du -Sh {} + | sort -rh | head -n 5
+` ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to download videos from Twitter (X) and save them locally under Linux - Simple Method]]></title>
+        <id>https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/</id>
+        <link href="https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/">
+        </link>
+        <updated>2024-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You will need two tools to download videos from twitter under linux:
+
+Your browser
+yt-dlp
+
+yt-dlp
+
+yt-dlp stands for youtube downloader. Originally intended to download Youtube videos only, now ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image optimization and compression with webp]]></title>
+        <id>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</id>
+        <link href="https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/">
+        </link>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[webp - short introduction
+
+Web is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordpress and WooCommerce fresh Docker install - PDO::MYSQLATTRINIT_COMMAND]]></title>
+        <id>https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/</id>
+        <link href="https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/">
+        </link>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you plan to use fpm version of Wordpress image from Docker hub bear in mind, that initially you might get PDO related error messages.
+
+The Error:
+
+PHP Fatal error:  Uncaught Error: Undefined ...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serve Next-Gen (.webp) images with Wordpress, no plugins - manual guide]]></title>
+        <id>https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/</id>
+        <link href="https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/">
+        </link>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I hope you already know what next-get image formats are why they are they beneficial for SEO. In this article i will try to put small guide on how to make/convert your current Wordpress site images to ...]]></summary>
+    </entry>
+</feed>

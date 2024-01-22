@@ -1,0 +1,68 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CoodingBox",
+    "home_page_url": "https://www.coodingbox.com",
+    "feed_url": "https://www.coodingbox.com/feed.json",
+    "items": [
+        {
+            "id": "https://www.coodingbox.com/ai-content-detection-tools-test/",
+            "url": "https://www.coodingbox.com/ai-content-detection-tools-test/",
+            "title": "Testing 10 AI content detector tools against ChatGPT generated text",
+            "summary": "AI-generated content has revolutionized the internet and the way we use it. Texts, images and entire websites, artificial intelligence eveolved from exotic, to solid, day-to-day tool in content creati ...",
+            "image": "https://www.coodingbox.com/images/blog/copyleaks-ai-content-detection-1.webp",
+            "date_modified": "2023-10-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/",
+            "url": "https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/",
+            "title": "Access MySQL server through Cloudflare Zero-Trust Tunnel",
+            "summary": "Cloudflare had pretty good and simple UI dashboard, that can be used to create and manage tunnels, but this post shows how to do it from the cli.\n\nThis base example below is straight-forward, stript ...",
+            "date_modified": "2023-04-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/add-appimage-to-kde-menu/",
+            "url": "https://www.coodingbox.com/add-appimage-to-kde-menu/",
+            "title": "Add AppImage executable to Applications menu in KDE Plasma",
+            "summary": "Press Alt + F2\n\nIn the popup field write kmenuedit.\n\nYou will see the familiar Applications menu.\n\nNavigate to the submenu you like and right click it.\n\nChoose  New Item\n\nFill the Details, poin ...",
+            "image": "https://www.coodingbox.com/images/blog/kde-menu-edit.png",
+            "date_modified": "2023-02-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/find-n-largest-files-cli/",
+            "url": "https://www.coodingbox.com/find-n-largest-files-cli/",
+            "title": "Find n largest files recursively",
+            "summary": "find -type f -exec du -Sh {} + | sort -rh | head -n 5\n` ...",
+            "date_modified": "2023-02-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/",
+            "url": "https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/",
+            "title": "How to download videos from Twitter (X) and save them locally under Linux - Simple Method",
+            "summary": "You will need two tools to download videos from twitter under linux:\n\nYour browser\nyt-dlp\n\nyt-dlp\n\nyt-dlp stands for youtube downloader. Originally intended to download Youtube videos only, now ...",
+            "image": "https://www.coodingbox.com/images/blog/1-right-click-on-video.webp",
+            "date_modified": "2024-01-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/",
+            "url": "https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/",
+            "title": "Image optimization and compression with webp",
+            "summary": "webp - short introduction\n\nWeb is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...",
+            "image": "https://www.coodingbox.com/images/blog/webp_logo.webp",
+            "date_modified": "2022-02-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/",
+            "url": "https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/",
+            "title": "Wordpress and WooCommerce fresh Docker install - PDO::MYSQLATTRINIT_COMMAND",
+            "summary": "If you plan to use fpm version of Wordpress image from Docker hub bear in mind, that initially you might get PDO related error messages.\n\nThe Error:\n\nPHP Fatal error:  Uncaught Error: Undefined ...",
+            "date_modified": "2023-10-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/",
+            "url": "https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/",
+            "title": "Serve Next-Gen (.webp) images with Wordpress, no plugins - manual guide",
+            "summary": "I hope you already know what next-get image formats are why they are they beneficial for SEO. In this article i will try to put small guide on how to make/convert your current Wordpress site images to ...",
+            "date_modified": "2023-11-21T00:00:00.000Z"
+        }
+    ]
+}

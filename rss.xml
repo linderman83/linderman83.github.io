@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CoodingBox</title>
+        <link>https://www.coodingbox.com</link>
+        <description></description>
+        <lastBuildDate>Mon, 22 Jan 2024 19:22:41 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://www.coodingbox.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing 10 AI content detector tools against ChatGPT generated text]]></title>
+            <link>https://www.coodingbox.com/ai-content-detection-tools-test/</link>
+            <guid>https://www.coodingbox.com/ai-content-detection-tools-test/</guid>
+            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[AI-generated content has revolutionized the internet and the way we use it. Texts, images and entire websites, artificial intelligence eveolved from exotic, to solid, day-to-day tool in content creati ...]]></description>
+            <enclosure url="https://www.coodingbox.com/images/blog/copyleaks-ai-content-detection-1.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Access MySQL server through Cloudflare Zero-Trust Tunnel]]></title>
+            <link>https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/</link>
+            <guid>https://www.coodingbox.com/access-mysql-server-cloudflare-tunnel/</guid>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cloudflare had pretty good and simple UI dashboard, that can be used to create and manage tunnels, but this post shows how to do it from the cli.
+
+This base example below is straight-forward, stript ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Add AppImage executable to Applications menu in KDE Plasma]]></title>
+            <link>https://www.coodingbox.com/add-appimage-to-kde-menu/</link>
+            <guid>https://www.coodingbox.com/add-appimage-to-kde-menu/</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Press Alt + F2
+
+In the popup field write kmenuedit.
+
+You will see the familiar Applications menu.
+
+Navigate to the submenu you like and right click it.
+
+Choose  New Item
+
+Fill the Details, poin ...]]></description>
+            <enclosure url="https://www.coodingbox.com/images/blog/kde-menu-edit.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Find n largest files recursively]]></title>
+            <link>https://www.coodingbox.com/find-n-largest-files-cli/</link>
+            <guid>https://www.coodingbox.com/find-n-largest-files-cli/</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[find -type f -exec du -Sh {} + | sort -rh | head -n 5
+` ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to download videos from Twitter (X) and save them locally under Linux - Simple Method]]></title>
+            <link>https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/</link>
+            <guid>https://www.coodingbox.com/how-to-download-videos-from-twitter-simple/</guid>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[You will need two tools to download videos from twitter under linux:
+
+Your browser
+yt-dlp
+
+yt-dlp
+
+yt-dlp stands for youtube downloader. Originally intended to download Youtube videos only, now ...]]></description>
+            <enclosure url="https://www.coodingbox.com/images/blog/1-right-click-on-video.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Image optimization and compression with webp]]></title>
+            <link>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</link>
+            <guid>https://www.coodingbox.com/image-optimization-using-jpegoptim-and-the-new-webp/</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[webp - short introduction
+
+Web is an image format, introduced by Google, more than 10 years ago. Web developers and designers have the main advantage over webp, because it achieves a much smaller ...]]></description>
+            <enclosure url="https://www.coodingbox.com/images/blog/webp_logo.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Wordpress and WooCommerce fresh Docker install - PDO::MYSQLATTRINIT_COMMAND]]></title>
+            <link>https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/</link>
+            <guid>https://www.coodingbox.com/pdo-mysql-error-wordpress-docker-php-fpm/</guid>
+            <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you plan to use fpm version of Wordpress image from Docker hub bear in mind, that initially you might get PDO related error messages.
+
+The Error:
+
+PHP Fatal error:  Uncaught Error: Undefined ...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Serve Next-Gen (.webp) images with Wordpress, no plugins - manual guide]]></title>
+            <link>https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/</link>
+            <guid>https://www.coodingbox.com/wordpress-serve-webp-nextgen-image-formats-manual-guide/</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I hope you already know what next-get image formats are why they are they beneficial for SEO. In this article i will try to put small guide on how to make/convert your current Wordpress site images to ...]]></description>
+        </item>
+    </channel>
+</rss>
